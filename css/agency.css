@@ -104,7 +104,7 @@ body {
     color: #fed503;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-      color: #fed136; }
+      color: white; }
 
 @media (min-width: 992px) {
   #mainNav {
